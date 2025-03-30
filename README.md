@@ -1,7 +1,7 @@
 # TP5DPBO2025C2
 
 # JANJI
-Saya Kania Dinda Fasya dengan NIM 2102421 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Kania Dinda Fasya dengan NIM 2102421 mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # ALUR PROGRAM
 Terdapat beberapa fitur:
